@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1050889998799",
+    "firebase_url": "https://kotlinfirebasenotificati-e2fc4.firebaseio.com",
+    "project_id": "kotlinfirebasenotificati-e2fc4",
+    "storage_bucket": "kotlinfirebasenotificati-e2fc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050889998799:android:ae6ede659fe10ccb5f82ba",
+        "android_client_info": {
+          "package_name": "com.example.kotlinfirebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050889998799-8ggg0f8h8468lbkhjudhk7q29ebak1p4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kotlinfirebasenotification",
+            "certificate_hash": "49d567b14f0e00b023b1dcbb6226375427c68bdc"
+          }
+        },
+        {
+          "client_id": "1050889998799-po9k428b5gt4ljdk2ampbjmihdckjsbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuARQ7tOC-pgUQfgsbWRkuyfMz8O0Xh74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050889998799-po9k428b5gt4ljdk2ampbjmihdckjsbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
